@@ -1,0 +1,6 @@
+name: RandomStrucutreGenerator
+main: me.jereds.plugin.RandomStructurePlugin
+version: 1.0
+authors: [Jereds]
+depend: [WorldEdit]
+api-version: 1.16
